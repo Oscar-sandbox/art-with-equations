@@ -12,7 +12,7 @@ This project constructs an artistic illustration, depicting a planktonic worm, u
 For each of the 1200x2000 pixels in the [image](img.png), there are 3 main functions that dictate the RGB values of each pixel. 
 In turn, these main functions are entirely defined by an intricate composition of simpler functions, like exponentials, 
 sines and cosines. The equations were formulated by Hamid Naderi and originally posted on his [X account](https://x.com/naderi_yeganeh). 
-Original post can also be seen [here](original_post.png). 
+The original post can also be seen [here](original_post.png). 
 
 ## Code Optimization
 A naive approach to coding the equations may lead to a long computation time. First, many of the equations repeatedly call the same 
