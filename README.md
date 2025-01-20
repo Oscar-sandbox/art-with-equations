@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/img.png" width=50% />
+  <img src="images/img.png" width=100% />
 </p>
 
 ![License](https://img.shields.io/github/license/Oscar-sandbox/art-with-equations)
@@ -15,7 +15,7 @@ sines and cosines. These functions, formulated by Hamid Naderi and originally po
 are the following:
 
 <p align="center">
-  <img src="images/equations.jpg" width=100% />
+  <img src="images/equations.jpg" width=75% />
 </p>
 
 ## Code Optimization
