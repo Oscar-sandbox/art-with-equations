@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" width=100% />
+  <img src="original_post.jpg" width=100% />
 </p>
 
 ![License](https://img.shields.io/github/license/Oscar-sandbox/art-with-equations)
