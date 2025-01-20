@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/Oscar-sandbox/art-with-equations)
 ![Python version](https://img.shields.io/badge/python-3.11-blue.svg) 
 
-# Art with mathematical equations
+# Art with Mathematical Equations
 
 ## Description
 This project constructs an artistic illustration, depicting a planktonic worm, using only mathematical formulas.
@@ -14,7 +14,7 @@ In turn, these main functions are entirely defined by an intricate composition o
 sines and cosines. The equations were formulated by Hamid Naderi and originally posted on his [X account](https://x.com/naderi_yeganeh). 
 Original post can also be seen [here](original_post.png). 
 
-# Code Optimization
+## Code Optimization
 A naive approach to coding the equations may lead to a long computation time. First, many of the equations repeatedly call the same 
 nested functions with the same arguments. We can take advantage of this by equiping each nested function with an LRU cache. 
 Second, we can speed up the program with parallelization, since the RGB values of a given pixel can be calculated independently from the others. 
