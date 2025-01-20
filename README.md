@@ -11,7 +11,8 @@
 This project constructs an artistic illustration, depicting a planktonic worm, using only mathematical formulas.
 For each of the 1200x2000 pixels in the [image](img.png), there are 3 main functions that dictate the RGB values of each pixel. 
 In turn, these main functions are entirely defined by an intricate composition of simpler functions, like exponentials, 
-sines and cosines. The equations were formulated by Hamid Naderi and originally posted on his [X account](https://x.com/naderi_yeganeh). 
+sines and cosines. These functions, formulated by Hamid Naderi and originally posted on his [X account](https://x.com/naderi_yeganeh), 
+are the following:
 
 <p align="center">
   <img src="images/equations.jpg" width=100% />
